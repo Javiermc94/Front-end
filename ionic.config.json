@@ -1,0 +1,7 @@
+{
+  "name": "delante end",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
